@@ -11,8 +11,6 @@ import javax.xml.bind.Unmarshaller;
 /**
  * OBJ和XML互转工具类
  * 
- * @author zhouzy
- *
  */
 public class JaxbUtil {
 
